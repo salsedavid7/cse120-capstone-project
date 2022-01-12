@@ -1,0 +1,3091 @@
+{
+    "projects": [
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "1",
+            "teamName": "#1 Team",
+            "projectTitle": "Cardboard Box to Cloud"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "2",
+            "teamName": "B2C",
+            "projectTitle": "Cardboard Box to Cloud"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "3",
+            "teamName": "BOXerBois",
+            "projectTitle": "Cardboard Box to Cloud"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "4",
+            "teamName": "Aggy",
+            "projectTitle": "Pest Control Reporting"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "5",
+            "teamName": "Verminators",
+            "projectTitle": "Pest Control Reporting"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "6",
+            "teamName": "r/HydroHomies",
+            "projectTitle": "Water Treatment Monitoring"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "7",
+            "teamName": "Water Boys",
+            "projectTitle": "Water Treatment Monitoring"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "8",
+            "teamName": "RobotWatch",
+            "projectTitle": "Service Reminder Application for Industrial and Mobile Robots"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "9",
+            "teamName": "Pit Stop",
+            "projectTitle": "Service Reminder Application for Industrial and Mobile Robots"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "10",
+            "teamName": "At Your Service",
+            "projectTitle": "Service Reminder Application for Industrial and Mobile Robots"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "11",
+            "teamName": "Agri Tab",
+            "projectTitle": "Customizable Views of Ag-gregated Data"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "12",
+            "teamName": "BLART (BListeringly fAst Rendered Tables)",
+            "projectTitle": "Customizable Views of Ag-gregated Data"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "13",
+            "teamName": "DataFarm",
+            "projectTitle": "Customizable Views of Ag-gregated Data"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "14",
+            "teamName": "Volunteer Hero",
+            "projectTitle": "UWMC's Volunteer Here"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "15",
+            "teamName": "Discover Help",
+            "projectTitle": "UWMC's Volunteer Here"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "16",
+            "teamName": "I2V",
+            "projectTitle": "UWMC's Volunteer Here"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "17",
+            "teamName": "Bart Central Valley Express",
+            "projectTitle": "Virtual Substation"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "18",
+            "teamName": "Over 9000 Amps",
+            "projectTitle": "Virtual Substation"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "19",
+            "teamName": "Battery Guys",
+            "projectTitle": "Automated Battery Monitoring for Life Safety Assets"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "20",
+            "teamName": "Batteryzilla",
+            "projectTitle": "Automated Battery Monitoring for Life Safety Assets"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "21",
+            "teamName": "Spark De Triomphe",
+            "projectTitle": "Automated Battery Monitoring for Life Safety Assets"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "22",
+            "teamName": "Team GGs",
+            "projectTitle": "Patient logger environment"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "23",
+            "teamName": "PatientLog",
+            "projectTitle": "Patient logger environment"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "24",
+            "teamName": "Glide Away",
+            "projectTitle": "Docker Based On-Premises Modbus/Bacnet Server"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "25",
+            "teamName": "Docker Crew",
+            "projectTitle": "Docker Based On-Premises Modbus/Bacnet Server"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "26",
+            "teamName": "Sweep Store",
+            "projectTitle": "Secure Realtime DB Import Desktop App"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "27",
+            "teamName": "Proton Import",
+            "projectTitle": "Secure Realtime DB Import Desktop App"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "28",
+            "teamName": "Italian Grey Wolves",
+            "projectTitle": "Database front-end app"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "29",
+            "teamName": "DataStack",
+            "projectTitle": "Database front-end app"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "30",
+            "teamName": "Wings",
+            "projectTitle": "Database front-end app"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "1",
+            "teamName": "Windrow",
+            "projectTitle": "Automated Compost Turner"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "2",
+            "teamName": "Tomato Recovery Team",
+            "projectTitle": "Capturing Tomatoes from Rock Removal System"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "3",
+            "teamName": "Tomato Feeder MOT Removal",
+            "projectTitle": "Removing Sand and Silt from Tomato Flume"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "4",
+            "teamName": "MOT Busters",
+            "projectTitle": "Removing Light Materials-Other-Than-Tomatoes (MOT) from the Tomato Flume Transport System"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "5",
+            "teamName": "Tomato-Tomato",
+            "projectTitle": "Reducing Finisher Screen Damage by Better Preparation of Tomato Pulp"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "6",
+            "teamName": "Tomato Town Droppers",
+            "projectTitle": "Tomato Harvester Self-Cleaning Kit"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "7",
+            "teamName": "Pomodoro Salato",
+            "projectTitle": "Controlling Sodium Levels in Topping Juice"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "8",
+            "teamName": "Team Roast",
+            "projectTitle": "Small Scale Vegetable Roasting"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "9",
+            "teamName": "Getting a Grip",
+            "projectTitle": "Agriculture Grasping"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "10",
+            "teamName": "Simple Made Difficult",
+            "projectTitle": "Vehicle Door Open/Closing Test Device"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "11",
+            "teamName": "Squirrel'd Away",
+            "projectTitle": "Down the Squirrel Hole"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "12",
+            "teamName": "Patient Assistant Logger",
+            "projectTitle": "Patient logger reporting"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "13",
+            "teamName": "Cow Bound",
+            "projectTitle": "Virtual Livestock Fence"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "14",
+            "teamName": "EcoHub Design",
+            "projectTitle": "Sustainable Transit Facility Design"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "15",
+            "teamName": "Burning Bad",
+            "projectTitle": "Biochar Oxidation"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "16",
+            "teamName": "U-Power",
+            "projectTitle": "Renewable Smart Power Brick Phase 2"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "17",
+            "teamName": "A-Team",
+            "projectTitle": "Tubular Drag Conveyor Cleaning System"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "18",
+            "teamName": "Algae Busters",
+            "projectTitle": "Clean Dairy Water Trough Design"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "19",
+            "teamName": "Dust Exhausters",
+            "projectTitle": "Dust Control Utilizing Fluid Dynamics"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "20",
+            "teamName": "Lightweight",
+            "projectTitle": "Ballast Lift Assist"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "21",
+            "teamName": "Who Caught Roger Rabbit",
+            "projectTitle": "Down the Squirrel Hole"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "22",
+            "teamName": "PLR",
+            "projectTitle": "Patient logger reporting"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "23",
+            "teamName": "Virtual Barriers",
+            "projectTitle": "Virtual Livestock Fence"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "24",
+            "teamName": "Next Step Bobcats",
+            "projectTitle": "Sustainable Transit Facility Design"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "25",
+            "teamName": "Biochar",
+            "projectTitle": "Biochar Oxidation"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "26",
+            "teamName": "Rough Riders",
+            "projectTitle": "Adjustable Mountain Bike Seat"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "27",
+            "teamName": "Keg lifters",
+            "projectTitle": "Cornelius Keg Storage Ergonomic Improvement"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "28",
+            "teamName": "The Flow Co.",
+            "projectTitle": "Mesh Network Leak Detection in Drip Lines/Emission Devices"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "29",
+            "teamName": "Pellet Containment",
+            "projectTitle": "Pellet containment and handling"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "30",
+            "teamName": "Accel Solutions",
+            "projectTitle": "Test Bench for Sensors & Harnesses"
+        },
+        {
+            "yearSemester": "2021-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "31",
+            "teamName": "Hay There",
+            "projectTitle": "Feeding the Animals"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "17",
+            "teamName": "AutoFair",
+            "projectTitle": "Enhancements to Oportun FAIR Tool"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "16",
+            "teamName": "Segfault",
+            "projectTitle": "Enhancements to Oportun FAIR Tool"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "15",
+            "teamName": "Loan Dolphins",
+            "projectTitle": "Enhancements to Oportun FAIR Tool"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "14",
+            "teamName": "The JavaScript Skeptics",
+            "projectTitle": "Business Process Applications for a Public Agency"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "13",
+            "teamName": "Archive 13",
+            "projectTitle": "Business Process Applications for a Public Agency"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "12",
+            "teamName": "Titanium Turtles",
+            "projectTitle": "Business Process Applications for a Public Agency"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "11",
+            "teamName": "VV11++",
+            "projectTitle": "Ag-Gregation and Best Practices Sharing"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "10",
+            "teamName": "Demetryst",
+            "projectTitle": "Ag-Gregation and Best Practices Sharing"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "9",
+            "teamName": "Farmbook",
+            "projectTitle": "Ag-Gregation and Best Practices Sharing"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "8",
+            "teamName": "Mace",
+            "projectTitle": "Warehouse Product Geo-tagging"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "7",
+            "teamName": "Red Star Inventory",
+            "projectTitle": "Warehouse Product Geo-tagging"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "6",
+            "teamName": "Morningstars",
+            "projectTitle": "Warehouse Product Geo-tagging"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "5",
+            "teamName": "T-21 Pathfinder",
+            "projectTitle": "KiDs Tracker"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "4",
+            "teamName": "Helping Hands",
+            "projectTitle": "KiDs Tracker"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "3",
+            "teamName": "Smiling Friends",
+            "projectTitle": "Securing home networks against IoT devices"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "2",
+            "teamName": "Cisco",
+            "projectTitle": "Securing home networks against IoT devices"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "1",
+            "teamName": "DVR",
+            "projectTitle": "Securing home networks against IoT devices"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "24",
+            "teamName": "HALLs Carts",
+            "projectTitle": "Irrigation Efficiency"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "21",
+            "teamName": "Reuse of End-of-Life Plastics",
+            "projectTitle": "Reuse of End-of-Life Mixed Plastics"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "20",
+            "teamName": "G.A.S.S. Engineering",
+            "projectTitle": "Reuse of End-of-Life Mixed Plastics"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "18",
+            "teamName": "Purple Dream",
+            "projectTitle": "Carbon Fiber Foot Brace"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "19",
+            "teamName": "Lawrence Livermore Tooling Designers",
+            "projectTitle": "LLNL Experiment Disassembly Tooling"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "3",
+            "teamName": "SoundBART",
+            "projectTitle": "Vent Structure Sound Attenuation"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "8",
+            "teamName": "The Energy Guys",
+            "projectTitle": "Identification of Optimal Solar Panel Locations"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "7",
+            "teamName": "Solar Optimizers",
+            "projectTitle": "Identification of Optimal Solar Panel Locations"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "6",
+            "teamName": "Sol Searchers",
+            "projectTitle": "Identification of Optimal Solar Panel Locations"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "5",
+            "teamName": "Drying Pomace",
+            "projectTitle": "Pomace Drying"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "4",
+            "teamName": "Pomace Dryers",
+            "projectTitle": "Pomace Drying"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "9",
+            "teamName": "Tomato Detection",
+            "projectTitle": "Product Spoilage and Leak Detection"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "10",
+            "teamName": "Cloud Wine",
+            "projectTitle": "Capacity of grape receiving process"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "22",
+            "teamName": "Riser Tee Designers",
+            "projectTitle": "Evaluation of current riser tee designs and recommendation for new leak proof option"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "11",
+            "teamName": "Alpha Team",
+            "projectTitle": "Capacitive sensor design"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "12",
+            "teamName": "Suction Fan Optimization",
+            "projectTitle": "Harvester Suction Fan Optimization"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "14",
+            "teamName": "The Stem Removers",
+            "projectTitle": "MOT Removal and Water Treatment"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "13",
+            "teamName": "Evening Sun",
+            "projectTitle": "MOT Removal and Water Treatment"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "2",
+            "teamName": "Shear Value",
+            "projectTitle": "Mandarin Long Stem Solution"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "1",
+            "teamName": "Fruit Scoops",
+            "projectTitle": "Mandarin Long Stem Solution"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "15",
+            "teamName": "Green Street Team",
+            "projectTitle": "Green Street"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "16",
+            "teamName": "Helios",
+            "projectTitle": "Renewable Smart Power Brick"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "17",
+            "teamName": "HBME Wetland Consulting",
+            "projectTitle": "City of Newman Agricultural Runoff Constructed Treatment Wetland"
+        },
+        {
+            "yearSemester": "2020-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "23",
+            "teamName": "Azula",
+            "projectTitle": "Design of a Wind Tunnel for Fire Research Applications"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "23",
+            "teamName": "The Cable Managers",
+            "projectTitle": "Accelerated Cable Management"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "22",
+            "teamName": "SLACkies",
+            "projectTitle": "SLAC Cable Management App"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "21",
+            "teamName": "SLACable",
+            "projectTitle": "Wiring an Accelerator"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "20",
+            "teamName": "Geodudes",
+            "projectTitle": "GeoVector"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "19",
+            "teamName": "TH Lktrs",
+            "projectTitle": "iLocate"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "18",
+            "teamName": "Bits Please",
+            "projectTitle": "C2M - Capture to Measure"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "17",
+            "teamName": "punchCARD",
+            "projectTitle": "Children Hospitals Eye Test (CHET)"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "16",
+            "teamName": "Third Eye Not Blind",
+            "projectTitle": "Dr. VR: Eye Tracking"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "15",
+            "teamName": "ICare",
+            "projectTitle": "Virtual Eye Exam"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "14",
+            "teamName": "PulseFit",
+            "projectTitle": "Project PulseFit"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "13",
+            "teamName": "WeFit BeatFit",
+            "projectTitle": "HeartFitness"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "12",
+            "teamName": "Cardi P",
+            "projectTitle": "CardioPulminary Fitness"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "11",
+            "teamName": "JAM Studios",
+            "projectTitle": "Kickstart Your Heart"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "10",
+            "teamName": "APHA",
+            "projectTitle": "Digital Library Guide (DLG)"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "9",
+            "teamName": "Push to Master",
+            "projectTitle": "Exquisite Exhibit Receptor"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "8",
+            "teamName": "Daniel's Minions",
+            "projectTitle": "Digital Exhibit Guide"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "7",
+            "teamName": "Team Organic",
+            "projectTitle": "Plant Conveyor Inspection"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "6",
+            "teamName": "New Dawn Engineering Consultants",
+            "projectTitle": "Precision Plant Counter"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "5",
+            "teamName": "Morning Visual Harvest",
+            "projectTitle": "Morning Visual Harvest"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "4",
+            "teamName": "Alm Tech",
+            "projectTitle": "Farmer Analytics"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "3",
+            "teamName": "Team++",
+            "projectTitle": "Almondac - Best Practices"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "2",
+            "teamName": "Cornucopia",
+            "projectTitle": "Maia - Best Practices"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "1",
+            "teamName": "TK:DJ",
+            "projectTitle": "Data-Forum Organized by Space and Time (D-FOST)"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "26",
+            "teamName": "Chrome Hogs",
+            "projectTitle": "Using Constructed Wetlands to Reduce Merced River Temperatures"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "25",
+            "teamName": "Team W.A.S.T.E.",
+            "projectTitle": "H Lines: Loss Reduction"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "24",
+            "teamName": "Team Third Rail",
+            "projectTitle": "Third Rail Insulator Cleaning Device"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "23",
+            "teamName": "Air Rescue Basket Stabilizer",
+            "projectTitle": "Air Rescue Basket Stabilizer"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "22",
+            "teamName": "Iron Shepherd",
+            "projectTitle": "Autonomous Bio-Converter"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "21",
+            "teamName": "Team Bag-In-Box",
+            "projectTitle": "Bag in Box Decant/recovery expansion/efficiency"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "20",
+            "teamName": "Team Darta",
+            "projectTitle": "Reducing the Cost of Olive Wastewater"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "19",
+            "teamName": "SteadiPen",
+            "projectTitle": "Magnetic Pen to Improve Writing in Patients with Tremor"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "18",
+            "teamName": "Optical Design and Sensory Aid",
+            "projectTitle": "Warning Sensor for Patients with Visual Field Defects"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "17",
+            "teamName": "Almond Hull Patrol",
+            "projectTitle": "Sorting foreign matters out of commercial almond hulls"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "16",
+            "teamName": "The Fat Filterers",
+            "projectTitle": "Self-cleaning Sample Loop Fat Removal Filter"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "15",
+            "teamName": "Team Hot Box",
+            "projectTitle": "Train Car Climate Control"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "14",
+            "teamName": "Team Dementors",
+            "projectTitle": "Tunnel Wind Power"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "13",
+            "teamName": "Team JJAM",
+            "projectTitle": "Tunnel Wind Power"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "12",
+            "teamName": "Continuous-Improvement Solutions",
+            "projectTitle": "Flour Line Optimization"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "11",
+            "teamName": "Team ToMOTsters",
+            "projectTitle": "MOT Removal & Water Treatment"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "10",
+            "teamName": "M.O.T Removers",
+            "projectTitle": "MOT Removal & Water Treatment"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "9",
+            "teamName": "Suction Fan Optimization",
+            "projectTitle": "Harvester Suction Brush"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "8",
+            "teamName": "Aqualite Solutions",
+            "projectTitle": "Weed Seed Filtration"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "7",
+            "teamName": "No Mo' Foam",
+            "projectTitle": "Foam Elimination"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "6",
+            "teamName": "Team Mobile Lab",
+            "projectTitle": "Mobile Sampling Lab"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "5",
+            "teamName": "KALEA Systems",
+            "projectTitle": "DAfQA (Data Acquisition for Quality Assurance)"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "4",
+            "teamName": "Team Ermagherd",
+            "projectTitle": "Scalable Low Cost Testing Apparatus"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "3",
+            "teamName": "Team Alpha",
+            "projectTitle": "AlphaNotify+ Anti-theft Attacher"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "2",
+            "teamName": "No Almonds Left Behind",
+            "projectTitle": "Almond Windfall Collection"
+        },
+        {
+            "yearSemester": "2020-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "1",
+            "teamName": "R.O.D.S",
+            "projectTitle": "Mass Production of Bearing Cages: Waterjet Add-on"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "4",
+            "teamName": "CSE 05",
+            "projectTitle": "Number One Oportun-ity"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "9",
+            "teamName": "Coding Verified",
+            "projectTitle": "Verification of the Confidential"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "13",
+            "teamName": "Oportun3",
+            "projectTitle": "Oportunithree"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "3",
+            "teamName": "Plebeiathon",
+            "projectTitle": "MotleyMoves"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "8",
+            "teamName": "We Like To Move It",
+            "projectTitle": "Moves App"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "12",
+            "teamName": "Mufasa",
+            "projectTitle": "Makin Moves"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "1",
+            "teamName": "The E&J team",
+            "projectTitle": "The webapp"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "6",
+            "teamName": "The Fellas",
+            "projectTitle": "E&J Gallo TrackBuster"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "11",
+            "teamName": "Bobcat Defective Detective Squad",
+            "projectTitle": "DTS Trouble Tracker"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "5",
+            "teamName": "KidsView",
+            "projectTitle": "Extracting Eye Movements for Telemedicine"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "10",
+            "teamName": "New Edge Developers",
+            "projectTitle": "Visual Telemedicine"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "2",
+            "teamName": "Run Time Terror",
+            "projectTitle": "Project Villicus"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CSE",
+            "class": "CSE",
+            "teamNumber": "7",
+            "teamName": "Lackluster Librarian Locator",
+            "projectTitle": "Project Penguin"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "9",
+            "teamName": "Vibration Mitigation Team",
+            "projectTitle": "Maintenance Vehicle Vibration Analysis and Design Modification  Phase 2"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "4",
+            "teamName": "PET Removers",
+            "projectTitle": "Flow Dynamics in a Factory Trench System"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "17",
+            "teamName": "Bike Company",
+            "projectTitle": "Self-Assisted Bicycle Rack"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "18",
+            "teamName": "Fusion Optics Co.",
+            "projectTitle": "What's Your Soil Quality?"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "1",
+            "teamName": "Team GAJB",
+            "projectTitle": "Self-Cleaning Filter"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "3",
+            "teamName": "Team Trinity",
+            "projectTitle": "Walker Falling Monitor"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "2",
+            "teamName": "SP Cleaning",
+            "projectTitle": "Washing and Inspection of Inaccessible Solar Panels"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "5",
+            "teamName": "BLT (Bin Liner Team)",
+            "projectTitle": "Bin Liner Assembly"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "6",
+            "teamName": "MOTreatment",
+            "projectTitle": "Water Treatment"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "7",
+            "teamName": "Sweep Energy",
+            "projectTitle": "Automated Electrical Meter Firmware Programmer in Production Line"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "8",
+            "teamName": "Geotaggers",
+            "projectTitle": "Underground Geolocation"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "10",
+            "teamName": "Bird Deterred",
+            "projectTitle": "BART Pigeon Mitigation"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "11",
+            "teamName": "The Wine Group",
+            "projectTitle": "Condensate Wastewater Conservation"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "12",
+            "teamName": "E&J Gallo's Team 12",
+            "projectTitle": "Glass Bottle Broken Finish Detection"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "13",
+            "teamName": "E&J Giraffe",
+            "projectTitle": "Barrel Leak Detection"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "14",
+            "teamName": "Superbuff",
+            "projectTitle": "Quantification of Muscle Strength"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "15",
+            "teamName": "ACAM Consulting",
+            "projectTitle": "Single Strength Juice"
+        },
+        {
+            "yearSemester": "2019-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "16",
+            "teamName": "LY Surveyors",
+            "projectTitle": "Lake Yosemite Capacity Curve"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "4",
+            "teamName": "i-Lens",
+            "projectTitle": "3D Environment to set out Objects"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "8",
+            "teamName": "Dang Diana Dang",
+            "projectTitle": "3D Environment to set out Objects"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "24",
+            "teamName": "Robocon",
+            "projectTitle": "3D Environment to set out Objects"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "2",
+            "teamName": "Team Copy & Paste",
+            "projectTitle": "Scavenger Hunt"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "12",
+            "teamName": "CPKV",
+            "projectTitle": "Scavenger Hunt"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "23",
+            "teamName": "J.K.T.",
+            "projectTitle": "Scavenger Hunt"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "5",
+            "teamName": "Bobcat Truckers",
+            "projectTitle": "Search Along the Route"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "15",
+            "teamName": "A 15 BPM Life",
+            "projectTitle": "Search Along the Route"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "21",
+            "teamName": "Team 120",
+            "projectTitle": "Search Along the Route"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "22",
+            "teamName": "In The Way",
+            "projectTitle": "Search Along the Route"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "7",
+            "teamName": "TriSquad",
+            "projectTitle": "Skin Test Analyser"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "16",
+            "teamName": "Two Birds With One Stone",
+            "projectTitle": "Skin Test Analyser"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "18",
+            "teamName": "Team Unicron",
+            "projectTitle": "Skin Test Analyser"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "3",
+            "teamName": "TruckIt The Dream Team",
+            "projectTitle": "Daily Vehicle Inspection Reports"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "9",
+            "teamName": "Nestle Smarties",
+            "projectTitle": "Daily Vehicle Inspection Reports"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "10",
+            "teamName": "J's & S ",
+            "projectTitle": "Daily Vehicle Inspection Reports"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "20",
+            "teamName": "Trucksy",
+            "projectTitle": "Daily Vehicle Inspection Reports"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "6",
+            "teamName": "Team 6",
+            "projectTitle": "Industrial App of Dykstra's Algorithm"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "14",
+            "teamName": "Group 14",
+            "projectTitle": "Industrial App of Dykstra's Algorithm"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "17",
+            "teamName": "Dream Team 1.0",
+            "projectTitle": "Industrial App of Dykstra's Algorithm"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "1",
+            "teamName": "Fantastic Farmers",
+            "projectTitle": "Farm Operations Dashboard"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "11",
+            "teamName": "AgTrack",
+            "projectTitle": "Farm Operations Dashboard"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "13",
+            "teamName": "Team KAT",
+            "projectTitle": "Farm Operations Dashboard"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CSE",
+            "class": "CSE",
+            "teamNumber": "19",
+            "teamName": "J3X",
+            "projectTitle": "Farm Operations Dashboard"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "1",
+            "teamName": "Splendid Broccoli",
+            "projectTitle": "Valuable Broccoli Constituents"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "2",
+            "teamName": "Tensile Test Optimization",
+            "projectTitle": "Tensile Test Optimization"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "3",
+            "teamName": "Team Knockout",
+            "projectTitle": "ABM Hole Punch Optimization"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "4",
+            "teamName": "Starlit",
+            "projectTitle": "JPL - Recovery of Starlite Technology"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "5",
+            "teamName": "The Martians",
+            "projectTitle": "Solar Collector for Oxygen Generation on Mars"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "6",
+            "teamName": "Wastewater Methane Reclamation Team",
+            "projectTitle": "Wastewater Methane Reclamation"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "7",
+            "teamName": "KPR",
+            "projectTitle": "Hygienic Design of Titano"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "8",
+            "teamName": "Black Soldier Fly",
+            "projectTitle": "Black Soldier Fly"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "9",
+            "teamName": "DRYers",
+            "projectTitle": "Dry Plant Material"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "10",
+            "teamName": "T3NSION",
+            "projectTitle": "Compression Device for Highly Insulated Walls"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "23",
+            "teamName": "Pista-chews",
+            "projectTitle": "Designing a Sorting Machine for Pistachio Kernels"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "11",
+            "teamName": "Los Tomateros",
+            "projectTitle": "MOT Removal and Flume Water Treatment"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "24",
+            "teamName": "Team Red",
+            "projectTitle": "Tomato Vision System"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "12",
+            "teamName": "Water Moo-vers",
+            "projectTitle": "Livestock Waterer"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "25",
+            "teamName": "Safe Hose Key",
+            "projectTitle": "Safe Hose Key"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "26",
+            "teamName": "CFW Engineering Copperheads",
+            "projectTitle": "Single Head Capper Adapter"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "27",
+            "teamName": "The Dust Eliminators",
+            "projectTitle": "Incoming Bottle Dust Removal"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "13",
+            "teamName": "Monarch Revival",
+            "projectTitle": "Milkweed Seed Cleaning"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "14",
+            "teamName": "Obstruction Detection",
+            "projectTitle": "Track Obstruction Detection"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "15",
+            "teamName": "Team TreRailway",
+            "projectTitle": "Tracking Inspection Apparatus"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "16",
+            "teamName": "Odor Abatement",
+            "projectTitle": "Ventilation and Atomization on Open Plazas"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "17",
+            "teamName": "Perfect Pavement",
+            "projectTitle": "Paved Road Perfection"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "28",
+            "teamName": "Vehicle Vibration",
+            "projectTitle": "Vehicle Vibration Analysis"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "29",
+            "teamName": "Solar Group",
+            "projectTitle": "Solar Data Compilation & Reporting"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "18",
+            "teamName": "Triumvirate Box Group",
+            "projectTitle": "Reusable CheeseBox"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "30",
+            "teamName": "Proactive Measures",
+            "projectTitle": "Early detection of CLABSI in Central Line Hubs"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "19",
+            "teamName": "TID Fish Strainer",
+            "projectTitle": "Fish Strainer"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "31",
+            "teamName": "Water & Pump Consultants",
+            "projectTitle": "Water Contamination"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "20",
+            "teamName": "Production Line Team",
+            "projectTitle": "Production Line"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "21",
+            "teamName": "Power",
+            "projectTitle": "Power Supply"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "22",
+            "teamName": "Spring team",
+            "projectTitle": "Walker Phase 2"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "32",
+            "teamName": "Do Not Spill The Beans",
+            "projectTitle": "Yield Loss Points"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "33",
+            "teamName": "SABC",
+            "projectTitle": "Semi-Automatic Bottle Crester"
+        },
+        {
+            "yearSemester": "2019-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "34",
+            "teamName": "Vodka Filtration",
+            "projectTitle": "Vodka Filtration System"
+        },
+        {
+            "yearSemester": "2018-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "19",
+            "teamName": "Happy Giraffes",
+            "projectTitle": "Childrens Nose Filter Design"
+        },
+        {
+            "yearSemester": "2018-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "18",
+            "teamName": "Solid Waste",
+            "projectTitle": "Wastewater Solids Management"
+        },
+        {
+            "yearSemester": "2018-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "17",
+            "teamName": "Bare Necessities",
+            "projectTitle": "Bare Root Transplanter"
+        },
+        {
+            "yearSemester": "2018-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "16",
+            "teamName": "Drum Curing Dreams",
+            "projectTitle": "Drum Curing Technology"
+        },
+        {
+            "yearSemester": "2018-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "15",
+            "teamName": "Storm Team",
+            "projectTitle": "Storm Water Sample Collection"
+        },
+        {
+            "yearSemester": "2018-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "14",
+            "teamName": "Tight by Design",
+            "projectTitle": "Premium Small Lot Packaging"
+        },
+        {
+            "yearSemester": "2018-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "13",
+            "teamName": "Eyevengers",
+            "projectTitle": "Eyewash Stations"
+        },
+        {
+            "yearSemester": "2018-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "12",
+            "teamName": "S&L Consulting",
+            "projectTitle": "Screwcap Liner Gas Transmission Control"
+        },
+        {
+            "yearSemester": "2018-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "11",
+            "teamName": "Perfect Caps",
+            "projectTitle": "Aluminum Screw Cap Inline Measurement Automation"
+        },
+        {
+            "yearSemester": "2018-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "10",
+            "teamName": "Bowles Farm",
+            "projectTitle": "Weed Seed Filtration in Water"
+        },
+        {
+            "yearSemester": "2018-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "9",
+            "teamName": "Inventory Drone",
+            "projectTitle": "Inventory Control Drone Support"
+        },
+        {
+            "yearSemester": "2018-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "8",
+            "teamName": "F.A.T.",
+            "projectTitle": "UV Swaddle"
+        },
+        {
+            "yearSemester": "2018-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "7",
+            "teamName": "Remoteling",
+            "projectTitle": "MOT Removal II"
+        },
+        {
+            "yearSemester": "2018-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "6",
+            "teamName": "In-situ-O",
+            "projectTitle": "Oxygen Generation"
+        },
+        {
+            "yearSemester": "2018-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "5",
+            "teamName": "Team Flibbin",
+            "projectTitle": "Macrobin Flipping"
+        },
+        {
+            "yearSemester": "2018-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "4",
+            "teamName": "Station Lighting",
+            "projectTitle": "Station Light Monitoring"
+        },
+        {
+            "yearSemester": "2018-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "3",
+            "teamName": "BART Plaza Resilience ",
+            "projectTitle": "Plaza Resilience"
+        },
+        {
+            "yearSemester": "2018-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "2",
+            "teamName": "ABDR",
+            "projectTitle": "Dust Reduction"
+        },
+        {
+            "yearSemester": "2018-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "1",
+            "teamName": "Crop Cleaner",
+            "projectTitle": "Debris Separation from Almonds"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "31",
+            "teamName": "",
+            "projectTitle": "Empty Can Loss Reduction"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "30",
+            "teamName": "",
+            "projectTitle": "Adhesive Storage Tank"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "29",
+            "teamName": "",
+            "projectTitle": "Automatic Hitch Pin System"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "28",
+            "teamName": "",
+            "projectTitle": "Flume debris control and MOT removal"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "27",
+            "teamName": "",
+            "projectTitle": "Seal Bar Cose Savings"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "26",
+            "teamName": "",
+            "projectTitle": "Vacuum Flow Optimization"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "25",
+            "teamName": "",
+            "projectTitle": "Accurate measurement of PH"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "24",
+            "teamName": "",
+            "projectTitle": "Mechanical Solution for Neonatal CLABSI"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "23",
+            "teamName": "",
+            "projectTitle": "East bulk dump elevator"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "22",
+            "teamName": "",
+            "projectTitle": "Structural Design of High Thermal Insulation Floor Planels"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "21",
+            "teamName": "",
+            "projectTitle": "Material Science of High Thermal Insulation Wall Blocks"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "20",
+            "teamName": "",
+            "projectTitle": "Design of improved spraying and water reuse system"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "19",
+            "teamName": "",
+            "projectTitle": "Acoustic-video instrument to diagnose middle ear disease"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "18",
+            "teamName": "",
+            "projectTitle": "Walker Design"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "17",
+            "teamName": "",
+            "projectTitle": "Urinary Tract Diagnosis"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "16",
+            "teamName": "",
+            "projectTitle": "Brandy Barrel Filling"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "15",
+            "teamName": "",
+            "projectTitle": "Bottle Sorter Drive Redesign"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "14",
+            "teamName": "",
+            "projectTitle": "MOG Prevention System"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "13",
+            "teamName": "",
+            "projectTitle": "Antifoam Addition System"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "12",
+            "teamName": "",
+            "projectTitle": "Home Building Block"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "11",
+            "teamName": "",
+            "projectTitle": "Laminated Beams"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "10",
+            "teamName": "",
+            "projectTitle": "Sambuca Navigation Algorithm"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "9",
+            "teamName": "",
+            "projectTitle": "Equipment Test Platform"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "8",
+            "teamName": "",
+            "projectTitle": "Automated Production Line"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "7",
+            "teamName": "",
+            "projectTitle": "Polished Water Cleaning"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "6",
+            "teamName": "",
+            "projectTitle": "Feed the Monarchs"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "5",
+            "teamName": "",
+            "projectTitle": "Sprinkler Flex Counter"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "4",
+            "teamName": "",
+            "projectTitle": "Computer Room HVAC"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "3",
+            "teamName": "",
+            "projectTitle": "Escalator Step Chain Stretch"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "2",
+            "teamName": "",
+            "projectTitle": "Rural Fiber"
+        },
+        {
+            "yearSemester": "2018-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "1",
+            "teamName": "",
+            "projectTitle": "Ceres Main Regulating Reservoir"
+        },
+        {
+            "yearSemester": "2017-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "14",
+            "teamName": "UC Merced SE2 Outdoor Seating Environment",
+            "projectTitle": "UC Merced SE2 Outdoor Seating Environment"
+        },
+        {
+            "yearSemester": "2017-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "13",
+            "teamName": "Team Mechancial Concept Designs",
+            "projectTitle": "Filtration Powder Delivery System Update"
+        },
+        {
+            "yearSemester": "2017-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "12",
+            "teamName": "Team Rocket",
+            "projectTitle": "So2 Additional System"
+        },
+        {
+            "yearSemester": "2017-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "11",
+            "teamName": "Passion Pit",
+            "projectTitle": "Peach Pit Recycling"
+        },
+        {
+            "yearSemester": "2017-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "10",
+            "teamName": "Ceres Main Regulating Reservoir",
+            "projectTitle": "Ceres Main Regulating Reservoir"
+        },
+        {
+            "yearSemester": "2017-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "9",
+            "teamName": "Upper Lateral 4 Irrigation Canal Flow Modeling",
+            "projectTitle": "Upper Lateral 4 Refinement"
+        },
+        {
+            "yearSemester": "2017-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "8",
+            "teamName": "Lower Lateral 2 Pump Back System",
+            "projectTitle": "Lower Lateral 2 Pump Back System"
+        },
+        {
+            "yearSemester": "2017-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "7",
+            "teamName": "Industrial Waste Water",
+            "projectTitle": "Industrial Waste Water"
+        },
+        {
+            "yearSemester": "2017-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "6",
+            "teamName": "Train Washer Nozzles Plugging",
+            "projectTitle": "Pipe Dream"
+        },
+        {
+            "yearSemester": "2017-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "5",
+            "teamName": "Emergency Tunnel Ventilation Fan",
+            "projectTitle": "Tunnel Ventilation"
+        },
+        {
+            "yearSemester": "2017-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "4",
+            "teamName": "Gait/Audio recording Interpreter",
+            "projectTitle": "Gait Analysis through Soound Detection"
+        },
+        {
+            "yearSemester": "2017-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "3",
+            "teamName": "Hot Water Pest Eradicator",
+            "projectTitle": "Plant Hot Water Pest Treatment"
+        },
+        {
+            "yearSemester": "2017-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "2",
+            "teamName": "Green Brick",
+            "projectTitle": "Optimization of Next Generation Construction Material"
+        },
+        {
+            "yearSemester": "2017-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "1",
+            "teamName": "Smart Grazing",
+            "projectTitle": "Rotational Grazing for Regenerative Agriculture"
+        },
+        {
+            "yearSemester": "2017-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "20",
+            "teamName": "MICENSOR",
+            "projectTitle": "Waste Gas and Thermal Load Level Biosensor"
+        },
+        {
+            "yearSemester": "2017-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "19",
+            "teamName": "SEL Solar",
+            "projectTitle": "Solar-Tractor Reuse for Compost Program"
+        },
+        {
+            "yearSemester": "2017-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "18",
+            "teamName": "H2SNOW",
+            "projectTitle": "Improved Efficiency of XCPC-Solar Composting Toilets and Potable Water Access for Cold Climates"
+        },
+        {
+            "yearSemester": "2017-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "17",
+            "teamName": "Microsystems",
+            "projectTitle": "Microwave Bridge to UC Sierra"
+        },
+        {
+            "yearSemester": "2017-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "16",
+            "teamName": "Integral Solutions",
+            "projectTitle": "Intellifeed Optimization"
+        },
+        {
+            "yearSemester": "2017-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "15",
+            "teamName": "Vibronerv",
+            "projectTitle": "Vibration Device for Quantification of Neuropathy"
+        },
+        {
+            "yearSemester": "2017-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "14",
+            "teamName": "Neuro-Neers Technologies",
+            "projectTitle": "Portable Assessment of Autonomic Function"
+        },
+        {
+            "yearSemester": "2017-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "13",
+            "teamName": "Eraticate",
+            "projectTitle": "Multi-kill Rodent Trap"
+        },
+        {
+            "yearSemester": "2017-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "12",
+            "teamName": "PacSol",
+            "projectTitle": "Automatic Bag Making Optimization"
+        },
+        {
+            "yearSemester": "2017-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "11",
+            "teamName": "Manufacturing Clamp Systems (MCS)",
+            "projectTitle": "Design a Clamp System for Blown Fiber Filling"
+        },
+        {
+            "yearSemester": "2017-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "10",
+            "teamName": "IrRIGation",
+            "projectTitle": "Automated irrigation pipe relocation"
+        },
+        {
+            "yearSemester": "2017-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "9",
+            "teamName": "proTECHt",
+            "projectTitle": "All Terrain Case Design for Remote Sensing Applications"
+        },
+        {
+            "yearSemester": "2017-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "8",
+            "teamName": "Prometheus Ignis (PI)",
+            "projectTitle": "Remote Power Generation for Sensor Applications"
+        },
+        {
+            "yearSemester": "2017-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "7",
+            "teamName": "Biomass Solutions (BioSol)",
+            "projectTitle": "Biomass Paper Products"
+        },
+        {
+            "yearSemester": "2017-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "6",
+            "teamName": "Biocraft",
+            "projectTitle": "Woody Biomass Utilization"
+        },
+        {
+            "yearSemester": "2017-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "5",
+            "teamName": "Syrx",
+            "projectTitle": "Syringe Pump Stickiness"
+        },
+        {
+            "yearSemester": "2017-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "4",
+            "teamName": "Nitro",
+            "projectTitle": "Liquid Nitrogen Dosing Optimization"
+        },
+        {
+            "yearSemester": "2017-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "3",
+            "teamName": "P&L Solutions",
+            "projectTitle": "Sterox Transfer System"
+        },
+        {
+            "yearSemester": "2017-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "2",
+            "teamName": "Gallo Robotics In Depalleting (GRID)",
+            "projectTitle": "Robotics in Manufacturing Project"
+        },
+        {
+            "yearSemester": "2017-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "1",
+            "teamName": "Water Wise",
+            "projectTitle": "RO Reject Water Reclamation"
+        },
+        {
+            "yearSemester": "2016-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "15",
+            "teamName": "EcoEnergy Gateway",
+            "projectTitle": "Solar Thermal Collectors"
+        },
+        {
+            "yearSemester": "2016-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "14",
+            "teamName": "Origins in Lubrication",
+            "projectTitle": "Custom Test Rig for Measuring Particle Counts in Oils"
+        },
+        {
+            "yearSemester": "2016-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "13",
+            "teamName": "Origins in Lubrication",
+            "projectTitle": "Cell Sorting Collection Device Improvments"
+        },
+        {
+            "yearSemester": "2016-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "12",
+            "teamName": "BioWaste Energy",
+            "projectTitle": "Transportation of Bio-gas or Energy from Landfill to Point of Use"
+        },
+        {
+            "yearSemester": "2016-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "11",
+            "teamName": "RTech",
+            "projectTitle": "Generation of Energy from Landfill Bio-gas"
+        },
+        {
+            "yearSemester": "2016-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "10",
+            "teamName": "Specimen Habitat Designs",
+            "projectTitle": "Mouse Mating and Density Study"
+        },
+        {
+            "yearSemester": "2016-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "9",
+            "teamName": "HelioTech",
+            "projectTitle": "Mobile Charging Station Kiosk"
+        },
+        {
+            "yearSemester": "2016-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "8",
+            "teamName": "Honey Badger Engineering",
+            "projectTitle": "MAW Carts Improvements"
+        },
+        {
+            "yearSemester": "2016-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "7",
+            "teamName": "Spectrum Brewing",
+            "projectTitle": "Development of a smartphone-based spectrophotometer of SRM analysis of beer"
+        },
+        {
+            "yearSemester": "2016-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "6",
+            "teamName": "Perfect Harvest",
+            "projectTitle": "The Perfect Mix"
+        },
+        {
+            "yearSemester": "2016-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "5",
+            "teamName": "SoilSense Group",
+            "projectTitle": "Remote Sensing"
+        },
+        {
+            "yearSemester": "2016-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "3",
+            "teamName": "Bobcat Agriculture Solutions",
+            "projectTitle": "Tomato Harvester Improvements"
+        },
+        {
+            "yearSemester": "2016-08-Fall-CAP",
+            "class": "CAP",
+            "teamNumber": "2",
+            "teamName": "Product Transportation Solutions",
+            "projectTitle": "New Mound Conveying System"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "24",
+            "teamName": "Gateway Innovations",
+            "projectTitle": "Commissary Energy Conservation System"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "23",
+            "teamName": "MicroGen Controls",
+            "projectTitle": "Microfluidic System for Rapid Quantification of Microbial Adaptation to Oil Spills"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "22",
+            "teamName": "MULES: Merced Universal Lavatory and Ecological Solutions",
+            "projectTitle": "Improved Efficiency and Safety Design for Wilderness-Use Composting Toilets, Phase III"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "21",
+            "teamName": "Heliotech",
+            "projectTitle": "Solar Powered Mobile Charging Station Kiosk for UC Merced"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "20",
+            "teamName": "Liquid Solutions",
+            "projectTitle": "Mobile Treatment System Design"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "19",
+            "teamName": "BioTect Solutions",
+            "projectTitle": "Medical Diagnostic Tool for Use in Resource-Limited Settings"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "18",
+            "teamName": "MicroScan",
+            "projectTitle": "MicroCT ScannerCalibration"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "17",
+            "teamName": "Ripe On Time",
+            "projectTitle": "Tomato Harvester for Fresh Market Tomatoes, Phase II"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "16",
+            "teamName": "Rinser",
+            "projectTitle": "Effective Rinsing of Empty Jars"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "15",
+            "teamName": "Compact Acts",
+            "projectTitle": "Trash Compactor Bin Design"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "14",
+            "teamName": "Integrated Designs",
+            "projectTitle": "Universal Clutch"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "13",
+            "teamName": "SunCo Innovations",
+            "projectTitle": "Sun Chips Tote Accuracy"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "12",
+            "teamName": "Peach Perfect",
+            "projectTitle": "Peach Peeling Efficiency"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "11",
+            "teamName": "Aqua Remediation & Technologies",
+            "projectTitle": "Testing Well Water for Contaminants"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "10",
+            "teamName": "Sodium Solutions",
+            "projectTitle": "Application of Salt to Cheese Curds"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "9",
+            "teamName": "Dream Steam",
+            "projectTitle": "Steam Optimization of the Fresno Stills"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "8",
+            "teamName": "Bubbly",
+            "projectTitle": "Bubbly (L12 Optimization, Modesto Bottling)"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "7",
+            "teamName": "Almendra Engineering",
+            "projectTitle": "Blanched Almond Wet Room Optimization"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "6",
+            "teamName": "Telecheck",
+            "projectTitle": "TeleCheck (Long Distance UAS)"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "5",
+            "teamName": "HydroSoft",
+            "projectTitle": "Continuous Ion-Exchange Hardness Removal, Phase 2"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "4",
+            "teamName": "AgriClean",
+            "projectTitle": "Robotic Bedding Cleaner for Poultry"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "3",
+            "teamName": "Wood U Inc.",
+            "projectTitle": "Woody Biomass Utilization"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "2",
+            "teamName": "ARMS: Automated Robotic Motion Solutions",
+            "projectTitle": "Robot Optimization"
+        },
+        {
+            "yearSemester": "2016-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "1",
+            "teamName": "Tier-E",
+            "projectTitle": "Pullet Transfer"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "25",
+            "teamName": "Bioink",
+            "projectTitle": "Better Bioprinter"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "24",
+            "teamName": "CatShield",
+            "projectTitle": "Public Safety Messaging System"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "23",
+            "teamName": "Team Phantom",
+            "projectTitle": "Vivarium Irradiator"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "22",
+            "teamName": "Wrist Management",
+            "projectTitle": "Wrist Fracture Reduction"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "21",
+            "teamName": "Innovative Invasion",
+            "projectTitle": "Bag in Box line optimization"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "20",
+            "teamName": "Great Grapes",
+            "projectTitle": "Gondola Wash"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "19",
+            "teamName": "MoonLight",
+            "projectTitle": "Lighted Bike Wheel"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "18",
+            "teamName": "A.T.L.A.S.",
+            "projectTitle": "Turbine Lifting Device"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "17",
+            "teamName": "Solar Waste Solutions",
+            "projectTitle": "Composting Toilets"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "16",
+            "teamName": "Sweet Mother of Plants",
+            "projectTitle": "Sweet Potato planting"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "15",
+            "teamName": "Knock on Wood Engineering Consulting",
+            "projectTitle": "Water source lumber drying"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "14",
+            "teamName": "F.A.I.R.E.",
+            "projectTitle": "Personal Automated Flossing"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "13",
+            "teamName": "JM Engineering",
+            "projectTitle": "Electric General Aviation Vehicle"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "12",
+            "teamName": "Optiflow Solutions",
+            "projectTitle": "Low-Flow Siphon for Env release"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "11",
+            "teamName": "Hydro Valley",
+            "projectTitle": "Spillway Hydrolics for Max Flood"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "10",
+            "teamName": "MOTley Crew",
+            "projectTitle": "Flume Rock and Foreign Catch"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "9",
+            "teamName": "StreamLine",
+            "projectTitle": "Monitoring Pneumatic Network"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "8",
+            "teamName": "Cold Runners",
+            "projectTitle": "Scrap Reduction"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "7",
+            "teamName": "Seal Team 11",
+            "projectTitle": "Soda syrub bag drip strip"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "6",
+            "teamName": "Water Quality Control",
+            "projectTitle": "Ion-Exchange water production"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "5",
+            "teamName": "Monitoring Motion System",
+            "projectTitle": "Pan/Tilt Module"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "4",
+            "teamName": "Desert Shield",
+            "projectTitle": "Sand Storm Shield"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "3",
+            "teamName": "Ventum",
+            "projectTitle": "Wind on UAVs"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "2",
+            "teamName": "Breathe Easy",
+            "projectTitle": "Aerosol Delivery Newborns"
+        },
+        {
+            "yearSemester": "2015-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "1",
+            "teamName": "IV League",
+            "projectTitle": "IV Pole Redesign"
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "40",
+            "teamName": "Porous Pioneers",
+            "projectTitle": "Design of Porous Material for Tissue Engineering"
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "38",
+            "teamName": "",
+            "projectTitle": "Electric Vehicle Battery Thermal Management System (BTMS)"
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "36",
+            "teamName": "FROST",
+            "projectTitle": "Fast Reponding Optical Switch Transmitter Laser \"Chopping\" System"
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "31",
+            "teamName": "",
+            "projectTitle": "Low-Cost Autonomous Unmanned Surface Vehicle (USV)"
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "26",
+            "teamName": "",
+            "projectTitle": "Propane Bottle Recovery and Residual Gas Harvesting System"
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "24",
+            "teamName": "",
+            "projectTitle": "TID Gomes Lake Pumping Plant Dry Sump Design \"Get Pumped Engineering\""
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "23",
+            "teamName": "",
+            "projectTitle": "Aqueous Logistics"
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "22",
+            "teamName": "Solinus Solutions",
+            "projectTitle": "Noise Control and Abatement for Aggregate Production Operations"
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "20",
+            "teamName": "",
+            "projectTitle": "Reactor for the Conversion Agricultural Waste into Activated Carbon"
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "19",
+            "teamName": "Team Optimal Drying Engineering",
+            "projectTitle": "Design of Optimal Drying Processes"
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "18",
+            "teamName": "",
+            "projectTitle": "Characterization of Shale Rock Frictional Properties"
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "16",
+            "teamName": "The Greengineers",
+            "projectTitle": ""
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "14",
+            "teamName": "Detox Engineering",
+            "projectTitle": "Sulfur Dioxide Removal Condensate Water"
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "13",
+            "teamName": "",
+            "projectTitle": "Tanker Wash Process Design for Water Reduction"
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "12",
+            "teamName": "",
+            "projectTitle": "Robust Real-Time Sensor System for Monitoring River Flows"
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "11",
+            "teamName": "Rock Solid Engineering",
+            "projectTitle": "Automated Rock Sorting System"
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "10",
+            "teamName": "Grape Express",
+            "projectTitle": "Grape Express"
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "8",
+            "teamName": "",
+            "projectTitle": "Design Validation of Thermal Connectors for the international RevCon Challenge by T.E.C."
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "7",
+            "teamName": "Sweet Steering",
+            "projectTitle": "Sweet Potato Harvester Alignment"
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "4",
+            "teamName": "Cranium Cradlers",
+            "projectTitle": "CPAP Helmet"
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "3",
+            "teamName": "",
+            "projectTitle": "VISAUD Alarm System"
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "2",
+            "teamName": "Fire Sight",
+            "projectTitle": "UAV Fire Perimeter Monitoring System"
+        },
+        {
+            "yearSemester": "2014-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "1",
+            "teamName": "RISC",
+            "projectTitle": "A Tool for Accurately Estimating Lionfish Population Desnities and Spread"
+        },
+        {
+            "yearSemester": "2013-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "30",
+            "teamName": "ATLAS Nanotech",
+            "projectTitle": "Crumpled Graphene for Energy Storage Devices"
+        },
+        {
+            "yearSemester": "2013-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "29",
+            "teamName": "3D Scanning",
+            "projectTitle": "3D Surface Scanning and Reocnstruction Via Structured Light Methods Click: See the World in 3D"
+        },
+        {
+            "yearSemester": "2013-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "24",
+            "teamName": "Print-N-Fly",
+            "projectTitle": "Innovative 3D Printed Structures for Enhanced Real-Time Prognostic Health Monitoring for Small Low Cost UAV's"
+        },
+        {
+            "yearSemester": "2013-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "22",
+            "teamName": "Heatbusters",
+            "projectTitle": "Heatbusters"
+        },
+        {
+            "yearSemester": "2013-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "21",
+            "teamName": "Intelligent Fan Control (I.FC.) Industries",
+            "projectTitle": "Energy Conservation via Intellgent Fan Control"
+        },
+        {
+            "yearSemester": "2013-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "20",
+            "teamName": "Eteroscopy",
+            "projectTitle": "Measurement of Lesion Using Laser Probe and Calibration System"
+        },
+        {
+            "yearSemester": "2013-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "17",
+            "teamName": "VADRE Tech",
+            "projectTitle": "Vibrationally Automated Demand Response"
+        },
+        {
+            "yearSemester": "2013-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "16",
+            "teamName": "Soil Salinity",
+            "projectTitle": "Aerial Salinity Mapping Systems"
+        },
+        {
+            "yearSemester": "2013-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "15",
+            "teamName": "Team CAN Sensing",
+            "projectTitle": "Groundwater Monitoring Sensor"
+        },
+        {
+            "yearSemester": "2013-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "14",
+            "teamName": "Pure Salts",
+            "projectTitle": "Salt Recycling Management for the SJV"
+        },
+        {
+            "yearSemester": "2013-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "13",
+            "teamName": "GLASS",
+            "projectTitle": "UAV Swarms for Gas Pipeline Surveilance"
+        },
+        {
+            "yearSemester": "2013-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "11",
+            "teamName": "Biogas Purification",
+            "projectTitle": "Biogas Purification System"
+        },
+        {
+            "yearSemester": "2013-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "10",
+            "teamName": "Harsh Environment Monitoring System",
+            "projectTitle": "Harsh Environment Monitoring System"
+        },
+        {
+            "yearSemester": "2013-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "8",
+            "teamName": "Wireless Sensor for Wine Tank",
+            "projectTitle": "Wireless Sensor for Wine Tank State"
+        },
+        {
+            "yearSemester": "2013-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "7",
+            "teamName": "Wine Transfer",
+            "projectTitle": "Implementation of a Search Algorithm in VBA to Generate Support Analytics"
+        },
+        {
+            "yearSemester": "2013-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "6",
+            "teamName": "EASE",
+            "projectTitle": "A Closed-Loop Water Recirculation System for the Purpose of Water Conservation and Reuse"
+        },
+        {
+            "yearSemester": "2013-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "5",
+            "teamName": "Humidification of Ventilator Gases",
+            "projectTitle": "Humidication of Ventilator Gases"
+        },
+        {
+            "yearSemester": "2013-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "4",
+            "teamName": "Neonates",
+            "projectTitle": "Temperature and Fluid Management for Neonates"
+        },
+        {
+            "yearSemester": "2013-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "3",
+            "teamName": "Leaf Be Gone",
+            "projectTitle": "Vortex Intellegent Cutting System: Strawberry Calyx Removal"
+        },
+        {
+            "yearSemester": "2013-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "1",
+            "teamName": "Cardiotel",
+            "projectTitle": "Telemedicine the Future of Healthcare: Cardiology Cart for Telemedicine"
+        },
+        {
+            "yearSemester": "2012-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "14",
+            "teamName": "Grater Grinders",
+            "projectTitle": "Organic Material Grinder for Plasma Gasification"
+        },
+        {
+            "yearSemester": "2012-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "13",
+            "teamName": "D2W",
+            "projectTitle": "Valley Pure Distilled Drinking Water"
+        },
+        {
+            "yearSemester": "2012-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "12",
+            "teamName": "",
+            "projectTitle": "Biomass Consulting Group"
+        },
+        {
+            "yearSemester": "2012-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "11",
+            "teamName": "KVIE Solar",
+            "projectTitle": "KVIE Solar"
+        },
+        {
+            "yearSemester": "2012-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "10",
+            "teamName": "Electrac",
+            "projectTitle": "Solar Powered Tractor"
+        },
+        {
+            "yearSemester": "2012-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "9",
+            "teamName": "Blood Plumbers",
+            "projectTitle": "Flow Valve for IV Fluid Supply System for Neonates"
+        },
+        {
+            "yearSemester": "2012-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "8",
+            "teamName": "Neonatal Acoustic Solutions",
+            "projectTitle": "Noise Reduction in Neonatal ICU"
+        },
+        {
+            "yearSemester": "2012-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "7",
+            "teamName": "",
+            "projectTitle": "Electrospinner Construction and Application in Vascular Tissue Engineering"
+        },
+        {
+            "yearSemester": "2012-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "5",
+            "teamName": "",
+            "projectTitle": "Porous Poly-L-lactic Acid Vascular Graft"
+        },
+        {
+            "yearSemester": "2012-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "3",
+            "teamName": "Poseidon",
+            "projectTitle": "Poseidon Power Tech"
+        },
+        {
+            "yearSemester": "2012-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "2",
+            "teamName": "All Degree Security",
+            "projectTitle": "Camera Housing Cooling System"
+        },
+        {
+            "yearSemester": "2012-01-Spring-CAP",
+            "class": "CAP",
+            "teamNumber": "1",
+            "teamName": "Digital Shipping Solutions",
+            "projectTitle": "Multi-Stimuli Shipping Sensor"
+        }
+    ]
+}
